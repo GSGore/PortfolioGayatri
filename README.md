@@ -53,7 +53,7 @@ The chatbot is integrated using [Library/Framework Name], providing a conversati
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/GSGore/PortfolioGayatri.git
 
 ### Notes:
 - Replace placeholders like `[Degree Title]`, `[University/Institution Name]`, `[Year Graduated]`, `[Internship Position]`, `[Company Name]`, `[Project Name]`, `[Description]`, `[Technologies Used]`, and `[Link]` with actual details relevant to your portfolio.
